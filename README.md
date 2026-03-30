@@ -1,6 +1,6 @@
 # OSS Audit — Git
 
-### Open Source Software Capstone Project | VIT
+### Open Source Software Project | VIT
 
 **Student:** Anuj Srivastva <br>
 **Roll Number:** 24BSA10176 <br>
